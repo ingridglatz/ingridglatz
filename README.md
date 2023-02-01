@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ingridilario
+- 👋 Hi, I’m @ingridglatz
 - 👀 I’m interested in collaborate and learn with community
 - 🌱 I’m currently learning programming 
 - 📫 How to reach me: ingridilario@outlook.com
