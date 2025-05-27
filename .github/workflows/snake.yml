@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite (UTC)
   workflow_dispatch:
 
 jobs:
@@ -18,6 +18,9 @@ jobs:
           github_user_name: ingridglatz
           outputs: |
             dist/github-contribution-grid-snake.svg
+          # Tema escuro
+          snake_color: '#ffffff'
+          background_color: '#0d1117'
 
       - name: Commit da animação
         uses: EndBug/add-and-commit@v9
