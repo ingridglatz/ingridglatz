@@ -27,7 +27,7 @@ Sou desenvolvedora **Full Stack** apaixonada por transformar ideias em soluçõe
 
 ---
 
-## 🚀 Projetos Destacados
+## 🚀 Projetos 
 
 - **To-do-list-backend:** API para criação, listagem, atualização e remoção de tarefas.  
 - **Gym:** Aplicação estilo academia para treinar componentização e navegação com React Router.  
@@ -46,7 +46,7 @@ Sou desenvolvedora **Full Stack** apaixonada por transformar ideias em soluçõe
 
 ---
 
-## 🐍 Meus commits animados
+## 🐍 Meus commits 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ingridglatz/ingridglatz/refs/heads/main/dist/github-contribution-grid-snake.svg" alt="snake animation"/>
