@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Geração do Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ingridglatz
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: Commit da animação
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Atualiza animação snake 🐍"
+          add: "dist/github-contribution-grid-snake.svg"
