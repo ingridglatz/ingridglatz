@@ -49,7 +49,7 @@ Sou desenvolvedora **Full Stack** apaixonada por transformar ideias em soluçõe
 ## 🐍 Meus commits animados
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ingridglatz/ingridglatz/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/ingridglatz/ingridglatz/refs/heads/main/dist/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 
