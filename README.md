@@ -57,11 +57,10 @@ Aplicação front-end voltada para **consumo de API, gerenciamento de estado e c
 
 ## GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ingridglatz&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridglatz&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ingridglatz&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridglatz&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## Contact
