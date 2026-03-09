@@ -1,9 +1,9 @@
 # Ingrid Glatz
 
-Software Engineer **Full Stack** focada em desenvolvimento de aplicações web escaláveis, APIs e arquitetura de sistemas.
+Software Engineer **Full Stack** focada no desenvolvimento de aplicações web escaláveis, APIs e arquitetura de sistemas.
 
-Atuo principalmente com **JavaScript/TypeScript**, desenvolvendo interfaces modernas no front-end e serviços robustos no back-end.  
-Tenho interesse em **arquitetura de software, design de APIs e boas práticas de engenharia**.
+Trabalho principalmente com **JavaScript/TypeScript**, construindo interfaces modernas no front-end e serviços robustos no back-end.  
+Tenho interesse especial em **arquitetura de software, design de APIs e boas práticas de engenharia**.
 
 ---
 
@@ -34,22 +34,22 @@ Tenho interesse em **arquitetura de software, design de APIs e boas práticas de
 
 ## Featured Projects
 
+### Roteirize
+Sistema para **planejamento e organização de roteiros**, permitindo estruturar atividades, locais e sequências de forma organizada.
+
+**Stack:** Node.js · PostgreSQL · APIs REST
+
+---
+
 ### To-do-list Backend
-API REST para gerenciamento de tarefas com operações completas de CRUD e persistência em banco de dados.
+API REST para gerenciamento de tarefas com operações completas de **CRUD** e persistência em banco de dados.
 
 **Stack:** Node.js · PostgreSQL
 
 ---
 
-### Gym App
-Aplicação front-end focada em componentização e navegação com React Router.
-
-**Stack:** React
-
----
-
 ### Bíblia React
-Projeto voltado para consumo de API, uso de React Hooks e organização de componentes.
+Aplicação front-end voltada para **consumo de API, gerenciamento de estado e componentização** utilizando React Hooks.
 
 **Stack:** React · Styled Components · API Integration
 
@@ -66,4 +66,5 @@ Projeto voltado para consumo de API, uso de React Hooks e organização de compo
 
 ## Contact
 
-📧 ingridilario@outlook.com
+📧 ingridilario@outlook.com  
+🔗 linkedin.com/in/ingridglatz
